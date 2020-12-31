@@ -1,0 +1,59 @@
+Biofluid,Family,Lipid,p-value,Regulation (ALS vs CTL),Median fold change (ALS vs CTL),Log fold change
+PLASMA,FA,FA(18:1),0.05,upregulated in ALS,1.79,0.252853031
+PLASMA,FA,HDoHe,0.049,upregulated in ALS,10,1
+PLASMA,FA,PGE2,0.035,upregulated in ALS,10,1
+PLASMA,GL,DG(34:1),0.013,upregulated in ALS,1.13,0.053078443
+PLASMA,GL,DG(36:4) ,0.026,upregulated in ALS,10,1
+PLASMA,GL,DG(37:3),0.025,downregulated in ALS,0.88,-0.055517328
+PLASMA,GL,DG(38:3),0.002,downregulated in ALS,0.91,-0.040958608
+PLASMA,GL,TG(42:0)*,0.041,upregulated in ALS,10,1
+PLASMA,GL,TG(44:0),0.011,upregulated in ALS,2.65,0.423245874
+PLASMA,GL,TG(44:1)*,0.033,upregulated in ALS,2.33,0.367355921
+PLASMA,GL,TG(48:4),0.015,upregulated in ALS,2.3,0.361727836
+PLASMA,GL,TG(48:8),0.02,downregulated in ALS,0.1,-1
+PLASMA,GL,TG(50:3),0.048,upregulated in ALS,1.44,0.158362492
+PLASMA,GL,TG(52:3)*,0.02,upregulated in ALS,1.39,0.1430148
+PLASMA,GL,TG(52:4)*,0.038,upregulated in ALS,1.65,0.217483944
+PLASMA,GL,TG(54:8) ,0.042,upregulated in ALS,10,1
+PLASMA,GL,TG(55:1),0.046,upregulated in ALS,2.52,0.401400541
+PLASMA,GL,TG(56:5),0.02,upregulated in ALS,1.53,0.184691431
+PLASMA,GL,TG(56:8)*,0.022,upregulated in ALS,10,1
+PLASMA,GL,TG(58:11),0.044,upregulated in ALS,10,1
+PLASMA,GL,TG(58:3),0.005,upregulated in ALS,1.63,0.212187604
+PLASMA,GL,TG(60:7),0.019,downregulated in ALS,0.1,-1
+PLASMA,GL,TG(62:7) ,0.031,downregulated in ALS,0.74,-0.13076828
+PLASMA,GL,TG(63:3),0.039,upregulated in ALS,3.03,0.481442629
+PLASMA,GP,LysoPS(20:3),0.014,upregulated in ALS,10,1
+PLASMA,GP,NAPE(52:2),0.013,downregulated in ALS,0.1,-1
+PLASMA,GP,PA(39:0),0.002,upregulated in ALS,1.41,0.149219113
+PLASMA,GP,PA(O-42:0),0.005,upregulated in ALS,2.29,0.359835482
+PLASMA,GP,PA(P-36:0),0.028,upregulated in ALS,1.29,0.11058971
+PLASMA,GP,PA(P-37:1),0.031,upregulated in ALS,1.24,0.093421685
+PLASMA,GP,PA(P-38:0),0.043,upregulated in ALS,10,1
+PLASMA,GP,PC(36:4)*,0.011,upregulated in ALS,1.46,0.164352856
+PLASMA,GP,PC(38:3),0.038,upregulated in ALS,1.4,0.146128036
+PLASMA,GP,PC(38:4),0.043,upregulated in ALS,1.7,0.230448921
+PLASMA,GP,PC(38:5),0.038,upregulated in ALS,1.33,0.123851641
+PLASMA,GP,PC(38:7),0.028,downregulated in ALS,0.1,-1
+PLASMA,GP,PC(44:8),0.009,upregulated in ALS,1.51,0.178976947
+PLASMA,GP,PC(44:10),0.005,upregulated in ALS,4.37,0.640481437
+PLASMA,GP,PC(O-28:0),0.026,downregulated in ALS,0.81,-0.091514981
+PLASMA,GP,PE(40:9),0.025,upregulated in ALS,10,1
+PLASMA,GP,PE(42:1),0.023,upregulated in ALS,10,1
+PLASMA,GP,PE(P-38:5),0.041,upregulated in ALS,1.94,0.28780173
+PLASMA,GP,PE(P-40:6),0.044,upregulated in ALS,1.27,0.103803721
+PLASMA,GP,PG(34:1)*,0.001,upregulated in ALS,1.1,0.041392685
+PLASMA,GP,PG(36:1),0.022,upregulated in ALS,10,1
+PLASMA,GP,PG(36:4),0.006,downregulated in ALS,0.86,-0.065501549
+PLASMA,GP,PI(37:2),0.008,downregulated in ALS,0.81,-0.091514981
+PLASMA,GP,PS(41:2),0.001,upregulated in ALS,1.59,0.201397124
+PLASMA,GP,PS(P-39:1),0.034,upregulated in ALS,1.12,0.049218023
+PLASMA,SP,Cer(d38:3),0.034,downregulated in ALS,0.1,-1
+PLASMA,SP,Cer(t40:0),0.026,upregulated in ALS,10,1
+PLASMA,SP,Cer(t42:0) ,0.037,downregulated in ALS,0.93,-0.031517051
+PLASMA,SP,NeuAc 2-3Gal?-Cer(d42:1),0.02,downregulated in ALS,0.1,-1
+CSF,GL,DG(44:3),0.019,downregulated in ALS,0.1,-1
+CSF,GL,MG(18:0)a,0.001,downregulated in ALS,0.1,-1
+CSF,GL,TG(63:4),0.013,downregulated in ALS,0.9,-0.045757491
+CSF,GL,TG(64:8),0.037,downregulated in ALS,0.1,-1
+CSF,GL,TG(66:10),0.026,downregulated in ALS,0.1,-1
